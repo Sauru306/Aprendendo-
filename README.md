@@ -20,22 +20,22 @@ Como o input() retorna uma string por padrão, usei a função int() para conver
 
 Texto do menu exibido ao usuário:
 
-                 o(≧o≦)o
-    (>'o')> ~= ROLE OS DADOS =~ <('o'<) 
-                 (─‿‿─)
-             ☆=============☆
-☆===========☆ ~By: Sauru~  ☆===========☆
-☆ 1-D2                                  ☆
-☆ 2-D4                                  ☆
-☆ 3-D6                                  ☆
-☆ 4-D8                                  ☆
-☆ 5-D10                                 ☆
-☆ 6-D20                                 ☆
-☆ 7-Sair                                ☆
- ☆=====================================☆
- 
-        Escolha um dos dados acima: 
-=======>
+                      o(≧o≦)o
+        (>'o')> ~= ROLE OS DADOS =~ <('o'<)
+                      (─‿‿─)
+            ☆=======================☆
+    ☆=========☆    ~ By: Sauru ~    ☆=========☆
+    ☆ 1 - D2                                   ☆
+    ☆ 2 - D4                                   ☆
+    ☆ 3 - D6                                   ☆
+    ☆ 4 - D8                                   ☆
+    ☆ 5 - D10                                  ☆
+    ☆ 6 - D20                                  ☆
+    ☆ 7 - Sair                                 ☆
+    ☆==========================================☆
+
+             Escolha um dos dados acima:
+    ===============> 
 
 Adicionei esse layout para dar um pouco de personalidade ao projeto, mesmo com alguns "frufrus" estéticos.
 
