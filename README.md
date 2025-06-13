@@ -33,7 +33,6 @@ Texto do menu exibido ao usuário:
     ☆ 6 - D20                                  ☆
     ☆ 7 - Sair                                 ☆
     ☆==========================================☆
-
              Escolha um dos dados acima:
     ===============> 
 
