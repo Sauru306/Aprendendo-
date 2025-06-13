@@ -19,6 +19,7 @@ Em seguida, criei a variável pergunta, que armazena a entrada do usuário usand
 Como o input() retorna uma string por padrão, usei a função int() para convertê-la em número inteiro, já que só trabalhamos com números de 1 a 7 neste contexto.
 
 Texto do menu exibido ao usuário:
+
                  o(≧o≦)o
     (>'o')> ~= ROLE OS DADOS =~ <('o'<) 
                  (─‿‿─)
@@ -34,6 +35,7 @@ Texto do menu exibido ao usuário:
  ☆=====================================☆
         Escolha um dos dados acima: 
 =======>
+
 Adicionei esse layout para dar um pouco de personalidade ao projeto, mesmo com alguns "frufrus" estéticos.
 
 Depois disso, criei a variável escolha e atribuí o valor 0 a ela. Esse valor inicial é neutro, pois seria substituído conforme a escolha do usuário.
