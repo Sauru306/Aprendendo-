@@ -3,6 +3,7 @@ Aprendendo
 Um compilado de pequenos projetos desenvolvidos com o objetivo de aprender e aprimorar minhas habilidades como programador.
 
 Projeto: Dados de RPG
+
 Introdução:
 
 Neste primeiro projeto, tive como objetivo criar um programa de dados de RPG com 7 opções disponíveis para o usuário: 6 tipos de dados e 1 opção de saída.
@@ -62,6 +63,7 @@ print("Bye bye, volte sempre! (^～^)")
 E finaliza o loop com o comando break.
 
 Conclusão:
+
 Neste pequeno projeto, coloquei em prática meus conhecimentos sobre:
 
 -Criação e controle de loops
