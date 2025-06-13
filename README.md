@@ -72,10 +72,11 @@ Conclusão:
 Neste pequeno projeto, coloquei em prática meus conhecimentos sobre:
 
 -Criação e controle de loops
+
 -Uso de variáveis
+
 -Estruturas condicionais (if, elif, break)
+
 -Entrada e saída de dados
+
 -Importação e uso de bibliotecas externas (random)
-
-
-
