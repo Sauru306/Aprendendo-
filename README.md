@@ -53,13 +53,16 @@ Se pergunta == 2, executa o primeiro elif, e assim por diante.
 Todos os blocos if / elif seguem o mesmo padrão, mudando apenas o tipo de dado sorteado. Para simplificar, explico abaixo o primeiro if, o primeiro elif e o último if (que encerra o programa):
 
 if pergunta == 1:
+
 Executa random.randint(1, 2), simulando a rolagem de um D2, e armazena o valor na variável escolha.
 Em seguida, imprime o resultado com print(escolha).
 
 elif pergunta == 2:
+
 Executa random.randint(1, 4), simulando um D4. O funcionamento é igual, apenas muda a faixa numérica.
 
 if pergunta == 7:
+
 Exibe a mensagem final:
 print("Bye bye, volte sempre! (^～^)")
 E finaliza o loop com o comando break.
@@ -69,13 +72,9 @@ Conclusão:
 Neste pequeno projeto, coloquei em prática meus conhecimentos sobre:
 
 -Criação e controle de loops
-
 -Uso de variáveis
-
 -Estruturas condicionais (if, elif, break)
-
 -Entrada e saída de dados
-
 -Importação e uso de bibliotecas externas (random)
 
 
